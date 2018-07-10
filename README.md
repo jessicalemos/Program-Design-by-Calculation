@@ -1,2 +1,2 @@
-# Program-Design-by-Calculation
+# Program Design by Calculation
 CP Project
